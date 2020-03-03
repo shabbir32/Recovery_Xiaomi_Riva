@@ -35,7 +35,7 @@ PRODUCT_COPY_FILES += \
     system/timezone/output_data/iana/tzdata:recovery/root/system/usr/share/zoneinfo/tzdata
 
 # Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := rosy
+PRODUCT_DEVICE := riva
 PRODUCT_NAME := omni_riva
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := Redmi 5A
